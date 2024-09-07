@@ -1,0 +1,72 @@
+[
+    {
+      "name": "amazon",
+      "path": "/companies/amazon.svg",
+      "id": 1
+    },
+    {
+      "name": "atlassian",
+      "path": "/companies/atlassian.svg",
+      "id": 2
+    },
+    {
+      "name": "google",
+      "path": "/companies/google.webp",
+      "id": 3
+    },
+    {
+      "name": "ibm",
+      "path": "/companies/ibm.svg",
+      "id": 4
+    },
+    {
+      "name": "meta",
+      "path": "/companies/meta.svg",
+      "id": 5
+    },
+    {
+      "name": "microsoft",
+      "path": "/companies/microsoft.webp",
+      "id": 6
+    },
+    {
+      "name": "netflix",
+      "path": "/companies/netflix.png",
+      "id": 7
+    },
+    {
+      "name": "uber",
+      "path": "/companies/uber.svg",
+      "id": 8
+    },
+    {
+      "name": "accunture",
+      "path": "/companies/accenture.png",
+      "id": 9
+    },
+    {
+      "name": "capgemini",
+      "path": "/companies/cap.png",
+      "id": 10
+    },
+    {
+      "name": "cognizent",
+      "path": "/companies/cognizent.jpeg",
+      "id": 11
+    },
+    {
+      "name": "infosis",
+      "path": "/companies/infosis.png",
+      "id": 12
+    },
+    {
+      "name": "tech mahindra",
+      "path": "/companies/tech.png",
+      "id": 13
+    },
+    {
+      "name": "tcs",
+      "path": "/companies/tcs.png",
+      "id": 14
+    }
+  ]
