@@ -57,7 +57,7 @@ const LandingPage = () => {
           ))}
         </CarouselContent>
       </Carousel>
-      <img src="./innovateh.webp" className="w-full" />
+      <img src="/innovateh.png" className="w-full" />
       <section className="grid grid-cols-1 gap-4 md:grid-cols-2">
         <Card>
           <CardHeader>
