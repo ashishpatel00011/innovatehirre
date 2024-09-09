@@ -11,7 +11,7 @@
     },
     {
       "name": "google",
-      "path": "/companies/google.webp",
+      "path": "/companies/google.png",
       "id": 3
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "name": "microsoft",
-      "path": "/companies/microsoft.webp",
+      "path": "/companies/microsoft.png",
       "id": 6
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "name": "cognizent",
-      "path": "/companies/cognizent.jpeg",
+      "path": "/companies/cognizent.png",
       "id": 11
     },
     {
